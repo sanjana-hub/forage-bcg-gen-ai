@@ -1,13 +1,9 @@
-# Financial Chat Bot
+# BCG Generative AI Virtual Internship Simulation
 
-This chat bot is developed as part of the BCG's Generative AI internship simulation. The chat has not been fully implemented. Currently, the supported questions are
-1. Revenue of <company> in <year>
-2. Change in income for <company>
+This repo contains the files for the BCG's Generative AI internship simulation.
 
-Other questions will be implemented in the future.
+<br>
 
-The chat bot has been deployed in streamlit. To run the app, enter these commands in terminal:
-```cmd
-pip install -r requirements.txt
-streamlit run app.py
-```
+Task 1: Analysis of 10-K statements from US Govt's EDGAR database
+
+Task 2: Development of IF-THEN rules for the chatbot (Additionally deployed in streamlit)
